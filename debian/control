@@ -7,7 +7,7 @@ Uploaders:
  Thomas Goirand <zigo@debian.org>,
 Build-Depends:
  cython3,
- debhelper-compat (= 12),
+ debhelper (>= 11),
  dh-python,
  openstack-pkg-tools,
  python3-all-dev,
